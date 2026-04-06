@@ -46,8 +46,8 @@
 
 ### 📡 Connection Terminals
 - 💼 **Portfolio:** [Visit Wayne Core](https://samwelwayne266-coder.github.io/samwelwayne266.github.io/)
-- 📧 **Transmission:** `samwelplays@gmail.com`
-- 🏗 **Latest Projects:** Scroll down to see the active repository stream.
+- 📧 **Contact:** `samwelplays@gmail.com`
+- 🏗 **Latest Projects:** Scroll down to see the active repositories.
 
 ---
 
@@ -59,7 +59,7 @@
         <img src="https://img.shields.io/badge/-Github-black.svg?style=for-the-badge&logo=github&colorB=555" alt="samwelwayne266-coder" width="100px" height="30px">
     </a>
     <a href="https://www.instagram.com/justmewayneee/">
-        <img src="https://img.shields.io/badge/Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=555" alt="samwelwayne266-coder" width="100px" height="30px">
+        <img src="https://img.shields.io/badge/Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=555" alt="samwelwayne266-coder" width="100px" height="40px">
     </a>
     <a href="mailto: samwelwayneplays@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555" alt="samwelwayne266-coder" width="100px" height="30px">
@@ -68,5 +68,5 @@
 
 ---
 
-  **Copyright © [WAYNE CORE](https://github.com/samwelwayne266-coder)**
+  **Copyright © [Wayneee](https://github.com/samwelwayne266-coder)**
 <div>
