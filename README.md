@@ -1,9 +1,5 @@
-# <p align="center">SYSTEM INITIALIZED: WAYNE CORE</p>
+# <p align="center">Wayneee</p>
 
-<p align="center">
-  <img src="image.png" width="400" style="border-radius: 50%; border: 3px solid #6366f1;">
-</p>
-<div align="center">
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=statuspage&logoColor=white&color=0ea5e9" />
   <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-blueviolet?style=for-the-badge&logo=dependabot&logoColor=white" />
