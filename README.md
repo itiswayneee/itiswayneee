@@ -46,9 +46,5 @@
 
 ---
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d3cc4294-5328-4718-86ac-11ecb1f3177c/deploy-status)](https://app.netlify.com/projects/webos-12/deploys)
-
----
-
   **Copyright © [Wayneee](https://github.com/itiswayneee)**
 <div>
