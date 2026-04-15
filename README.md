@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=statuspage&logoColor=white&color=0ea5e9" />
   <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-blueviolet?style=for-the-badge&logo=dependabot&logoColor=white" />
   <img src="https://img.shields.io/badge/DEPLOYMENT-LIVE-orange?style=for-the-badge&logo=githubpages&logoColor=white" />
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/d3cc4294-5328-4718-86ac-11ecb1f3177c/deploy-status)](https://app.netlify.com/projects/webos-12/deploys)
 </p>
 
 ---
@@ -12,8 +11,8 @@
 ### 🟢 Developer Diagnostics
 | Attribute | Data |
 | :--- | :--- |
-| **System Identity** | samwelwayne266-coder |
-| **Main Core** | [Wayne Core Dashboard](https://samwelwayne266-coder.github.io/samwelwayne266.github.io/) |
+| **System Identity** | itiswayneee |
+| **Main Core** | [Wayne Core Dashboard](https://samwelwayne266-coder.github.io/Wayne-Portfolio/) |
 | **Current Focus** | Full-Stack Architecture & Mobile Systems |
 
 ---
@@ -34,9 +33,9 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samwelwayne266-coder/samwelwayne266-coder/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samwelwayne266-coder/samwelwayne266-coder/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samwelwayne266-coder/samwelwayne266-coder/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itiswayneee/itiswayneee/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itiswayneee/itiswayneee/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itiswayneee/itiswayneee/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -48,22 +47,9 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=samwelwayne266-coder&color=339933&style=flat-square&label=SYSTEM+VISITORS)
-
----
-<p align="center">
-    <a href="https://github.com/samwelwayne266-coder">
-        <img src="https://img.shields.io/badge/-Github-black.svg?style=for-the-badge&logo=github&colorB=555" alt="samwelwayne266-coder" width="100px" height="30px">
-    </a>
-    <a href="https://www.instagram.com/justmewayneee/">
-        <img src="https://img.shields.io/badge/Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=555" alt="samwelwayne266-coder" width="100px" height="40px">
-    </a>
-    <a href="mailto: samwelwayneplays@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555" alt="samwelwayne266-coder" width="100px" height="30px">
-    </a>
-</p>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d3cc4294-5328-4718-86ac-11ecb1f3177c/deploy-status)](https://app.netlify.com/projects/webos-12/deploys)
 
 ---
 
-  **Copyright © [Wayneee](https://github.com/samwelwayne266-coder)**
+  **Copyright © [Wayneee](https://github.com/itiswayneee)**
 <div>
