@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=statuspage&logoColor=white&color=0ea5e9" />
   <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-blueviolet?style=for-the-badge&logo=dependabot&logoColor=white" />
   <img src="https://img.shields.io/badge/DEPLOYMENT-LIVE-orange?style=for-the-badge&logo=githubpages&logoColor=white" />
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/d3cc4294-5328-4718-86ac-11ecb1f3177c/deploy-status)](https://app.netlify.com/projects/webos-12/deploys)
 </p>
 
 ---
