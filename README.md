@@ -42,7 +42,6 @@
 
 ### 📡 Connection Terminals
 - 💼 **Portfolio:** [Visit Wayne Core](https://samwelwayne266-coder.github.io/samwelwayne266.github.io/)
-- 📧 **Contact:** `samwelplays@gmail.com`
 - 🏗 **Latest Projects:** Scroll down to see the active repositories.
 
 ---
