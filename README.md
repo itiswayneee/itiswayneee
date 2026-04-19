@@ -12,7 +12,7 @@
 | Attribute | Data |
 | :--- | :--- |
 | **System Identity** | itiswayneee |
-| **Main Core** | [Wayne Core Dashboard](https://itiswayneee.github.io/Wayne-Portfolio/) |
+| **Main Core** | [Wayne Core Dashboard](https://itiswayneee.github.io/My.Portfolio) |
 | **Current Focus** | Full-Stack Architecture & Mobile Systems |
 
 ---
