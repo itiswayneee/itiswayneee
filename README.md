@@ -12,7 +12,7 @@
 | Attribute | Data |
 | :--- | :--- |
 | **System Identity** | itiswayneee |
-| **Main Core** | [Wayne Core Dashboard](https://itiswayneee.github.io/My.Portfolio) |
+| **Main Core** | [Wayne Dashboard](https://itiswayneee.github.io/My.Portfolio) |
 | **Current Focus** | Full-Stack Architecture & Mobile Systems |
 
 ---
@@ -37,12 +37,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itiswayneee/itiswayneee/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itiswayneee/itiswayneee/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-### 📡 Connection Terminals
-- 💼 **Portfolio:** [Visit Wayne Core](https://samwelwayne266-coder.github.io/samwelwayne266.github.io/)
-- 🏗 **Latest Projects:** Scroll down to see the active repositories.
 
 ---
 
