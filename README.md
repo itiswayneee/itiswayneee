@@ -52,7 +52,7 @@ const wayne = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itiswayneee&show_icons=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itiswayneee&theme=transparent" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itiswayneee&layout=compact&theme=transparent" />
 
