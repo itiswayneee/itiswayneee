@@ -1,36 +1,76 @@
-# <p align="center">Wayneee</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=statuspage&logoColor=white&color=0ea5e9" />
-  <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-blueviolet?style=for-the-badge&logo=dependabot&logoColor=white" />
-  <img src="https://img.shields.io/badge/DEPLOYMENT-LIVE-orange?style=for-the-badge&logo=githubpages&logoColor=white" />
+# Wayne 👋
+
+### Full-Stack Developer • Builder • Problem Solver
+
+<p>
+  <a href="https://itiswayneee.github.io/My.Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=itiswayneee&style=for-the-badge">
+</p>
+
+</div>
+
+---
+
+## About Me
+
+```javascript
+const wayne = {
+  username: "itiswayneee",
+  role: "Full-Stack Developer",
+  location: "Kenya",
+  code: ["JavaScript", "HTML", "CSS"],
+  technologies: {
+    frontend: ["TailwindCSS", "Responsive Design"],
+    backend: ["Node.js", "Express"],
+    realtime: ["Socket.io"],
+  },
+  currentFocus: [
+    "Web Applications",
+    "Mobile Apps",
+    "Backend Systems"
+  ]
+};
+```
+
+---
+
+## Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,tailwind,git,github,vscode" />
+
 </p>
 
 ---
 
-### 🟢 Developer Diagnostics
-| Attribute | Data |
-| :--- | :--- |
-| **System Identity** | itiswayneee |
-| **Main Core** | [Wayne Dashboard](https://itiswayneee.github.io/My.Portfolio) |
-| **Current Focus** | Full-Stack Architecture & Mobile Systems |
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itiswayneee&show_icons=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itiswayneee&layout=compact&theme=transparent" />
+
+</div>
 
 ---
 
-### 🛠 Tech Stack Pulse
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  
-</p>
+## What I'm Working On
+
+- 🌐 Personal web projects
+- 📱 Mobile-first applications
+- ⚡ Real-time systems
+- 🎨 Modern UI/UX experiences
+- 🚀 Open-source experiments
 
 ---
+
+## Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itiswayneee/itiswayneee/output/github-contribution-grid-snake-dark.svg">
@@ -40,5 +80,16 @@
 
 ---
 
-  **Copyright © [Wayneee](https://github.com/itiswayneee)**
-<div>
+<div align="center">
+
+### Connect
+
+<a href="https://github.com/itiswayneee">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://itiswayneee.github.io/My.Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+</div>
