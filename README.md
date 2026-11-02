@@ -1,6 +1,6 @@
 <div align="center">
 
-# Wayne 👋
+# Wayne 
 
 ### Full-Stack Developer • Builder • Problem Solver
 
@@ -35,38 +35,6 @@ const wayne = {
   ]
 };
 ```
-
----
-
-## Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,tailwind,git,github,vscode" />
-
-</p>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itiswayneee&theme=transparent" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itiswayneee&layout=compact&theme=transparent" />
-
-</div>
-
----
-
-## What I'm Working On
-
-- 🌐 Personal web projects
-- 📱 Mobile-first applications
-- ⚡ Real-time systems
-- 🎨 Modern UI/UX experiences
-- 🚀 Open-source experiments
 
 ---
 
