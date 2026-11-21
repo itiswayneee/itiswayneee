@@ -2,7 +2,7 @@
 
 # Wayne 
 
-### Full-Stack Developer • Builder • Problem Solver
+### Problem Solver
 
 <p>
   <a href="https://itiswayneee.github.io/My.Portfolio">
@@ -20,14 +20,9 @@
 ```javascript
 const wayne = {
   username: "itiswayneee",
-  role: "Full-Stack Developer",
+  role: "Developer",
   location: "Kenya",
   code: ["JavaScript", "HTML", "CSS"],
-  technologies: {
-    frontend: ["TailwindCSS", "Responsive Design"],
-    backend: ["Node.js", "Express"],
-    realtime: ["Socket.io"],
-  },
   currentFocus: [
     "Web Applications",
     "Mobile Apps",
@@ -48,16 +43,3 @@ const wayne = {
 
 ---
 
-<div align="center">
-
-### Connect
-
-<a href="https://github.com/itiswayneee">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://itiswayneee.github.io/My.Portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
-
-</div>
